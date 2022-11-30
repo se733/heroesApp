@@ -10,5 +10,6 @@ export const HeroPages = () => {
     console.log(hero);
   return (
     <div>HeroPages</div>
+    //pagina para mostrar heroes
   )
 }
